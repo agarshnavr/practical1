@@ -1,1 +1,1 @@
-This is the first line of Git and GitHub practical
+print("This is the first line of Git and GitHub practical")
